@@ -1,0 +1,8 @@
+﻿  退票业务.cpp
+  查询航线.cpp
+  FlightMain.cpp
+  FlightInfo.cpp
+  正在生成代码...
+d:\2017上半学期\c++\大作业-订票系统\退票业务.cpp(56): warning C4700: 使用了未初始化的局部变量“flag2”
+  Flight.vcxproj -> D:\2017上半学期\C++\大作业-订票系统\.\Debug\Flight.exe
+  Flight.vcxproj -> .\Debug\Flight.pdb (Full PDB)

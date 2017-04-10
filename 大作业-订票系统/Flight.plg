@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Flight - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP119.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Flight.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\VC代码\Flight\FlightInfo.cpp"
+"D:\VC代码\Flight\FlightMain.cpp"
+"D:\VC代码\Flight\查询航线.cpp"
+"D:\VC代码\Flight\订票业务.cpp"
+"D:\VC代码\Flight\退票业务.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP119.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP11A.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Flight.pdb" /debug /machine:I386 /out:"Debug/Flight.exe" /pdbtype:sept 
+".\Debug\FlightInfo.obj"
+".\Debug\FlightMain.obj"
+".\Debug\查询航线.obj"
+".\Debug\订票业务.obj"
+".\Debug\退票业务.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP11A.tmp"
+<h3>Output Window</h3>
+Compiling...
+FlightInfo.cpp
+FlightMain.cpp
+查询航线.cpp
+订票业务.cpp
+退票业务.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Flight.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
